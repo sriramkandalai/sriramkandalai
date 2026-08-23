@@ -6,6 +6,6 @@ I'm Sriram — a Computer Engineering student at UT Arlington building toward a 
 - 🌱 I’m currently learning **Python, C/C++, JavaScript, AI/LLMs, embedded systems, and robotics**.
 - 👯 I’m looking to collaborate on **AI, robotics, embedded, and open-source projects**.
 - 💬 Ask me about **AI, robotics, computer engineering, productivity, or turning ideas into projects**.
-- 📫 How to reach me: **[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/sriramkandalai/))** | **[Email](sriramkandalai@gmail.com)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/sriramkandalai/)** | **[Email](sriramkandalai@gmail.com)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **My long-term goal is to build intelligent systems that connect software, hardware, and the real world.**
