@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A192F,100:1E3A8A&height=220&section=header&text=Sriram%20Kandalai&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Computer%20Engineering%20%C2%B7%20UT%20Arlington&descSize=24&descAlignY=64" width="100%" alt="Sriram Kandalai, Computer Engineering at UT Arlington" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=2200&pause=1400&color=93C5FD&background=0A192F&center=true&vCenter=true&width=854&height=64&lines=Computer+Engineering+%40+UT+Arlington;AI+%C2%B7+Robotics+%C2%B7+Embedded+%C2%B7+Semiconductors;Sole+programmer+on+a+competition+drone;HackUTA+2026+%C2%B7+Best+Use+of+MongoDB;Connecting+software%2C+hardware+%26+the+real+world" width="100%" alt="Computer Engineering at UT Arlington. AI, robotics, embedded, semiconductors. Sole programmer on a competition drone. HackUTA 2026: Best Use of MongoDB. Connecting software, hardware and the real world." />
+  <a href="https://github.com/sriramkandalai"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A192F,100:1E3A8A&height=220&section=header&text=Sriram%20Kandalai&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Computer%20Engineering%20%C2%B7%20UT%20Arlington&descSize=24&descAlignY=64" width="100%" alt="Sriram Kandalai, Computer Engineering at UT Arlington" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=2200&pause=1400&color=93C5FD&background=0A192F&center=true&vCenter=true&width=854&height=64&lines=Computer+Engineering+%40+UT+Arlington;AI+%C2%B7+Robotics+%C2%B7+Embedded+%C2%B7+Semiconductors;AI-Thon+Winner;HackUTA+2026+%C2%B7+Best+Use+of+MongoDB;Connecting+software%2C+hardware+%26+the+real+world" width="100%" alt="Computer Engineering at UT Arlington. AI, robotics, embedded, semiconductors. AI-Thon Winner. HackUTA 2026: Best Use of MongoDB. Connecting software, hardware and the real world." />
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI--Thon-Winner-3B82F6?style=for-the-badge&labelColor=0A192F" alt="AI-Thon Winner" />
   <img src="https://img.shields.io/badge/HackUTA_2026-Best_Use_of_MongoDB-3B82F6?style=for-the-badge&labelColor=0A192F" alt="HackUTA 2026: Best Use of MongoDB" />
-  <img src="https://img.shields.io/badge/Drone_Research-Sole_Programmer-3B82F6?style=for-the-badge&labelColor=0A192F" alt="Drone research: sole programmer" />
   <img src="https://img.shields.io/badge/UT_Arlington-Computer_Engineering_%C2%B7_2029-3B82F6?style=for-the-badge&labelColor=0A192F" alt="UT Arlington: Computer Engineering, 2029" />
 </p>
 
@@ -23,25 +23,14 @@
 me = {
     "does":     "builds across hardware and software",
     "based":    "Dallas–Fort Worth, Texas",
-    "now":      "sole programmer, competition drone research",
     "degree":   "B.S. Computer Engineering, UT Arlington '29",
     "minor":    "Business Administration",
     "focus":    ["AI", "robotics", "embedded systems", "semiconductors"],
     "learning": ["Python", "C/C++", "Java", "JavaScript", "AI/LLMs"],
+    "wins":     ["AI-Thon Winner", "HackUTA 2026: Best Use of MongoDB"],
     "goal":     "connect software, hardware, and the real world",
     "pronouns": "he/him",
 }
-```
-
-## 💼 experience
-
-<table>
-  <tr>
-    <td width="36%" valign="top"><b>Undergraduate Research Assistant</b><br /><sub>Drone research project · 2026 to present</sub></td>
-    <td valign="top">Only programmer on a team building a ~10-inch competition-style quadcopter that runs Betaflight.</td>
-  </tr>
-</table>
-
 ## 🧰 stack
 
 <p align="center">
