@@ -21,28 +21,17 @@
 
 ```python
 me = {
-    "does":     "computer engineering student building across hardware and software",
+    "does":     "builds across hardware and software",
     "based":    "Dallas–Fort Worth, Texas",
-    "now":      "sole programmer on a competition drone research project",
-    "degree":   "B.S. Computer Engineering, UT Arlington (expected 2029)",
+    "now":      "sole programmer, competition drone research",
+    "degree":   "B.S. Computer Engineering, UT Arlington '29",
     "minor":    "Business Administration",
     "focus":    ["AI", "robotics", "embedded systems", "semiconductors"],
-    "learning": ["Python", "C/C++", "Java", "JavaScript", "AI/LLMs", "embedded systems", "robotics"],
-    "goal":     "build intelligent systems that connect software, hardware, and the real world",
+    "learning": ["Python", "C/C++", "Java", "JavaScript", "AI/LLMs"],
+    "goal":     "connect software, hardware, and the real world",
     "pronouns": "he/him",
 }
 ```
-
-<details>
-<summary><b>🌱 how I got here. click for the short version</b></summary>
-<br />
-<table>
-  <tr><td><b>2023</b></td><td>Joined the Prosper Career Independent Study Program and worked with an industry mentor in computer science</td></tr>
-  <tr><td><b>2025</b></td><td>Started Computer Engineering at UT Arlington, with a minor in Business Administration</td></tr>
-  <tr><td><b>2026</b></td><td>Became the only programmer on a competition drone research project</td></tr>
-  <tr><td><b>Nov 2026</b></td><td>First hackathon: our team's app, Ithaca, won Best Use of MongoDB at HackUTA (135 teams)</td></tr>
-</table>
-</details>
 
 ## 💼 experience
 
@@ -53,48 +42,13 @@ me = {
   </tr>
 </table>
 
-## 🚀 projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏆 <a href="https://YOUR_ITHACA_LINK">Ithaca</a></h3>
-      <sub><b>HackUTA 2026 · Best Use of MongoDB</b></sub>
-      <p>A contribution-points app for college clubs. Officers log attendance and award points every week, and companies can see member rankings by college and by club.</p>
-      <p><code>MongoDB</code> <!-- add the other tools your team used, like <code>React</code> --></p>
-      <a href="https://YOUR_ITHACA_LINK"><img src="https://img.shields.io/badge/see_the_project-1E3A8A?style=for-the-badge" alt="See the project" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🩺 Parkinson's Voice Classifier</h3>
-      <sub><b>AI-thon · team of 3 · in progress</b></sub>
-      <p>A machine-learning model that classifies Parkinson's disease from acoustic features of voice recordings.</p>
-      <!-- add the tools you used, like: <p><code>Python</code> <code>scikit-learn</code></p> -->
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 EduVice</h3>
-      <sub><b>founder · in progress</b></sub>
-      <p>A chatbot that helps immigrant parents understand the US school system.</p>
-      <!-- once eduvice.org is live, add:
-      <a href="https://eduvice.org"><img src="https://img.shields.io/badge/try_it-1E3A8A?style=for-the-badge" alt="Try EduVice" /></a>
-      -->
-    </td>
-    <td width="50%" valign="top">
-      <h3>📂 <a href="https://github.com/YOUR_USERNAME?tab=repositories">More Work</a></h3>
-      <sub><b>everything else</b></sub>
-      <p>More projects live here.</p>
-    </td>
-  </tr>
-</table>
-
 ## 🧰 stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,github,visualstudio&perline=14&theme=dark" alt="C++, HTML, CSS, JavaScript, GitHub, Visual Studio" />
 </p>
 
-<!-- Add icons as you use them: py, java, mongodb, arduino, raspberrypi, linux. Full list at skillicons.dev -->
+<!-- Add icons as you use them: py, mongodb, arduino, raspberrypi, linux. Full list at skillicons.dev -->
 
 <p align="center"><b>Open to collaborating on AI, robotics, embedded, and open-source projects.</b><br />Ask me about AI, robotics, computer engineering, or turning ideas into projects.</p>
 
